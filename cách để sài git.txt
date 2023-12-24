@@ -1,0 +1,5 @@
+để sao lưu
+shift + chuột phải chọn open powershell window here
+git add .
+git commit -m "tên của commit"
+git push -u origin --all

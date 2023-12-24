@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1592902c-be4e-4eb5-8a69-3867d234aeac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/HinhCN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/Hinhhoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/Hinhtron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/Hinhtru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/Hinhvuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/baitaptrenlop/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/bai 1 classroom.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/src/bai1/Fraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/src/bai1/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26-2-2023 bai lab so 3/BT-1-classroom/bai 1 classroom/src/bai1/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/bai-lab-4/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/bai-lab-4/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-3-2023 bai-lab-so-4/bai-lab-4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-1/src/Bai1/HinhTron.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-1/src/Bai1/HinhVuong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-2/src/Bai2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-2/src/Bai2/Vector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BT-3/src/Bai3/NhanVien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai-lab-04/src/Lab4/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai-lab-04/src/Lab4/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai-lab-04/src/Lab4/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai-lab-04/src/Lab4/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ke_thua/src/chuyenxe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ke_thua/src/chuyenxe/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MpjSxcYfeiCtHxGF2ENe1uygE7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1592902c-be4e-4eb5-8a69-3867d234aeac" name="Changes" comment="" />
+      <created>1678471423266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678471423266</updated>
+    </task>
+    <servers />
+  </component>
+</project>

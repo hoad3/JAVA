@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/17-02-2003 bai lap so 2.iml" filepath="$PROJECT_DIR$/17-02-2003 bai lap so 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinh_tien_dien/tinh_tien_dien.iml" filepath="$PROJECT_DIR$/tinh_tien_dien/tinh_tien_dien.iml" />
+    </modules>
+  </component>
+</project>
